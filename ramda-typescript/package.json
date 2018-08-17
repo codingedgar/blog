@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.25.0",
+    "ts-node": "^7.0.0",
+    "typescript": "^3.0.1"
+  },
+  "devDependencies": {
+    "ts-jest": "^23.1.2",
+    "jest": "^23.4.2",
+    "@types/jest": "^23.3.1",
+    "@types/node": "^10.5.6",
+    "@types/ramda": "types/npm-ramda#dist"
+  }
+}
