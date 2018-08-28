@@ -6,4 +6,4 @@
 	url = git@gist.github.com:d68c0b11db9607694425f40172c1095a.git
 [submodule "de-iteracion-a-recursion/__tests__/map"]
 	path = de-iteracion-a-recursion/__tests__/map
-	url = https://gist.github.com/edgarjrg/e8f10023666141899f0d71989afb82f6
+	url = git@gist.github.com:e8f10023666141899f0d71989afb82f6.git
