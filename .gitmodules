@@ -1,0 +1,9 @@
+[submodule "de-iteracion-a-recursion/__tests__/compose"]
+	path = de-iteracion-a-recursion/__tests__/compose
+	url = git@gist.github.com:6426fb2014ad9ede5bc2dd26f49c33fc.git
+[submodule "de-iteracion-a-recursion/__tests__/reduce"]
+	path = de-iteracion-a-recursion/__tests__/reduce
+	url = git@gist.github.com:d68c0b11db9607694425f40172c1095a.git
+[submodule "de-iteracion-a-recursion/__tests__/map"]
+	path = de-iteracion-a-recursion/__tests__/map
+	url = https://gist.github.com/edgarjrg/e8f10023666141899f0d71989afb82f6
